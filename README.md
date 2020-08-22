@@ -2,10 +2,6 @@
 
 I'm a 20 years old Software Developer, current working in Web Development. Also a guitar player and student of enginieery at the National University Of Rosario (UNR) in Rosario, Argentina.
 
-I'm have experiencee with PHP, Node.js, Angular and React.JS - Currently i'm working in this side project (educ.ar)[educar.graciani.com.ar], a virtual classroom, to handle the experience of assign homework, and make a really value powered tracking of student's, where no matter if a face-to-face class or remote. The idea is can create aggregate value, more personalized and human way to track and see the student performance and that have a really nice place to see the study material, and submit homework. 
-
-A little technical look of whats technologies i choose for this side project. The backend is a microservice oriented, why ?, II think it is an excess of engineering for this project it uses a microservices architecture, but at that moment I decided to educate thinking about a technical challenge to solve, make that backend in this architecture, undoubtedly, the more difficult challange was the auth service based in JWT, and the skeleton of the generations of project I make ((here repo) [https://github.com/Yegaston/Mongodb-Express-Boilerplate]), to can start new services with zero work. All microservices running on one server with docker and reverse proxy. In the backend use Next.JS a react framework.
-
 (My Linkedin)[https://www.linkedin.com/in/gastongraciani/]
 
 Bye
